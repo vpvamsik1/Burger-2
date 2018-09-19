@@ -1,0 +1,29 @@
+body {
+    background-color: #FFCA64;
+}
+
+#eaten{
+    float: right;
+    margin-right: 50px;
+
+}
+
+
+#eaten button{
+    display: none;
+}
+#not_eaten {
+    /* clear: both; */
+    float: left;
+}
+h1{
+    text-align: center;
+}
+img{
+    margin-left: 70px;
+}
+#addBurger{
+    clear: both;
+    text-align: center;
+    margin-top: 10px;
+}
